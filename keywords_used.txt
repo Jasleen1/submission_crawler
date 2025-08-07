@@ -1,0 +1,26 @@
+verifiable directory 
+verifiable dictionary
+verifiable key-value store
+Verifiable Key Directory
+authenticated key-value store
+authenticated dictionary
+authenticated directory
+key-value database with integrity
+database with integrity
+dictionary with integrity
+verifiable directories 
+verifiable dictionaries
+verifiable key-value stores
+Verifiable Key Directories
+authenticated key-value stores
+authenticated dictionaries
+authenticated directories
+key-value databases with integrity
+databases with integrity
+dictionaries with integrity
+key transparency
+key-transparency
+binary transparency
+transparency log
+certificate transparency
+revocation transparency
