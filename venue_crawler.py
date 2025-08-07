@@ -204,7 +204,7 @@ def main():
     parser.add_argument("--venues",       nargs="+",     default=None, help="List of venue names")
     parser.add_argument("--venues_file",  default=None,   help="File of venue names, one per line")
     parser.add_argument("--year_from",    type=int,       default=2005, help="Earliest year")
-    parser.add_argument("--limit",        type=int,       default=4000, help="Bulk-search page size")
+    parser.add_argument("--limit",        type=int,       default=100, help="Bulk-search page size")
     parser.add_argument("--batch_size",   type=int,       default=100, help="Citation page size")
     parser.add_argument("--threshold",    type=float,     default=0.0, help="Relevance threshold")
     parser.add_argument("--model",        default="relevance_head.joblib", help="Path to model")
